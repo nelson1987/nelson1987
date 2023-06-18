@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nelson1987?cardType=github&theme=dracula&preferLogin=true&Ring=DD2727)](https://git.io/awesome-stats-card)
+![nelson1987's Stats](https://github-readme-stats.vercel.app/api?username=nelson1987&theme=merko&show_icons=true&hide_border=false&count_private=true)
+![nelson1987's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelson1987&theme=merko&hide_border=false)
+![nelson1987's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson1987&theme=merko&show_icons=true&hide_border=false&layout=compact)
